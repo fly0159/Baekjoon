@@ -8,7 +8,7 @@ def poster(slice_list, max_size):
 
 
 if __name__ == '__main__':
-    slice_list = [ ]
+    slice_list = [ None ]
     max_size = 0
 
     index = int( input() )
